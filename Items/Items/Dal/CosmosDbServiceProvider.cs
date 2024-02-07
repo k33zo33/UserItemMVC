@@ -4,10 +4,10 @@ namespace Items.Dal
 {
     public class CosmosDbServiceProvider
     {
-        private const string DatabaseName = "pppkcosmosdb";
-        private const string ContainerName = "Todo";
-        private const string Account = "https://pppkcosmosdb.documents.azure.com:443/";
-        private const string Key = "YJN5uMdHLGVpahLl2OKf0SSVMWLEpBnES8gqS8WpIgx1nLLCFRaI6Id8WK8RvutiKOqFR8SalQU6ACDbPmZ72A==";
+        private const string DatabaseName = "";
+        private const string ContainerName = "";
+        private const string Account = "";
+        private const string Key = "";
 
         private static ICosmosDbService? service;
 
