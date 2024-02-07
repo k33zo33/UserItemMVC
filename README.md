@@ -12,7 +12,7 @@ Key Features:
 Getting Started:
 
     Clone the repository.
-    Configure Azure Cosmos DB account and connection details.
+    Configure Azure Cosmos DB account and connection details in Dal/CosmosDbServiceProvider.cs
     Run the .NET Core MVC application to interact with the NoSQL database.
 
 Feel free to explore, contribute, and enhance the application based on your requirements.
